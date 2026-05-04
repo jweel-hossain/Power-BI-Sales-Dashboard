@@ -10,3 +10,5 @@ Power Query: For data cleaning and transformation.
 DAX (Data Analysis Expressions): Used for calculating measures like Total Sales and Profit.
 Dataset: Sample Superstore/Sales Data.
 🚀 How to ViewDownload the .pbix file from this repository.Open it using Power BI Desktop.
+Click here to view the Live Interactive Dashboard.
+https://github.com/jweel-hossain/Power-BI-Sales-Dashboard/blob/main/Sales.pbix
